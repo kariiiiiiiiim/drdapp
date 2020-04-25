@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "769087493035",
+    "firebase_url": "https://drd-app.firebaseio.com",
+    "project_id": "drd-app",
+    "storage_bucket": "drd-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769087493035:android:24fbd7f58baaeba53738ee",
+        "android_client_info": {
+          "package_name": "com.karimfawzi.drd_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769087493035-hacp4gts6tmvrpft1j32e7p39fkpr5cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_EzzgzX3ZJ3p0lsC1VaFCWm02S_iVOns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769087493035-hacp4gts6tmvrpft1j32e7p39fkpr5cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
